@@ -33,5 +33,5 @@ Hi, I'm Hashim Zulkifli (Kami), a Junior Cybersecurity Analyst focused on SOC op
 
 ## Contact
 - **Email**: hashimzulkifli@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/hashim-zulkifli-549b3b1aa/(#)
+- **LinkedIn**: [https://www.linkedin.com/in/hashim-zulkifli-549b3b1aa/(#)](https://www.linkedin.com/in/hashim-zulkifli-549b3b1aa/)
 
