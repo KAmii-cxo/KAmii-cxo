@@ -29,7 +29,7 @@ Hi, I'm Hashim Zulkifli (Kami), a Cybersecurity Enthusiast focused on SOC operat
 
 ## Certifications
 - Google Cybersecurity Certificate
-- ISC2 Candidate Badge
+- ISC2 Certified in Cybersecurity
 
 ## Contact
 - **Email**: hashimzulkifli@gmail.com
