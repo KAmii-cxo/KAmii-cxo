@@ -1,4 +1,4 @@
-# Hashim Zulkifli - Cybersecurity Portfolio
+# Hashim Zulkifli
 
 ## About Me
 Hi, I'm Hashim Zulkifli (Kami), a Junior Cybersecurity Enthusiast focused on SOC operations and threat hunting. With a passion for securing digital environments, I am specialized in malware analysis, vulnerability scanning, penetration testing and network monitoring.
