@@ -1,7 +1,7 @@
 # Hashim Zulkifli
 
 ## About Me
-Hi, I'm Hashim Zulkifli (Kami), a Cybersecurity Enthusiast focused on SOC operations and threat hunting. With a passion for securing digital environments, I am focusing on learning in malware analysis, vulnerability scanning, penetration testing and network monitoring.
+Hi, I'm Hashim Zulkifli, a Cybersecurity Enthusiast focused on SOC operations and threat hunting. With a passion for securing digital environments, I am focusing on learning in malware analysis, vulnerability scanning, penetration testing and network monitoring.
 
 ## Key Projects
 ### 1. **Malware Analysis Lab**
