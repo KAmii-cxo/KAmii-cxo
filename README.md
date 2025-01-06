@@ -25,5 +25,5 @@ Hi, I'm KAmii, a Cybersecurity Enthusiast focused on SOC operations and threat h
 
 ## Contact
 - **Email**: hashimzulkifli@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/hashim-zulkifli-549b3b1aa/
+- **LinkedIn**: https://www.linkedin.com/in/hashim-zulkifli-
 
