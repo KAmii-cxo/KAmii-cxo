@@ -27,9 +27,30 @@ Hi, I'm Hashim Zulkifli, a Cybersecurity Enthusiast focused on SOC operations an
   - Mitigated risks by educating users about online safety.
 - [View Project](#) _(Link to the repository)_
 
+Here’s a tailored format for your GitHub repository with **Description**, **Features**, and **Key Highlights** sections:  
+
+# Google Cybersecurity Professional Certificate Projects
+
+## Description :
+Showcases my projects and practical work completed during the Google Cybersecurity Professional Certificate program. It demonstrates my skills in cloud security, threat detection, and vulnerability management.
+
+## Features :
+- Scripts and resources for securing cloud environments.  
+- Threat detection strategies using cybersecurity tools.  
+- Projects focused on identifying and mitigating vulnerabilities.  
+
+## Key Highlights :
+- Hands-on experience with Google Cloud Platform (GCP) services.  
+- Implementation of multi-factor authentication (MFA) and other security measures.  
+- Proactive defense measures to safeguard digital environments.
+- [View Project](#) _(Link to the repository)_
+
+
 ## Certifications
 - Google Cybersecurity Certificate
 - ISC2 Certified in Cybersecurity
+
+
 
 ## Contact
 - **Email**: hashimzulkifli@gmail.com
