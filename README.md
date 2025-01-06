@@ -3,33 +3,7 @@
 ## About Me
 Hi, I'm KAmii, a Cybersecurity Enthusiast focused on SOC operations and threat hunting. With a passion for securing digital environments, I am focusing on learning in malware analysis, vulnerability scanning, penetration testing and network monitoring.
 
-## Key Projects
-### 1. **Malware Analysis Lab**
-- **Description**: Conducted static and dynamic analysis of malware samples to identify attack vectors.
-- **Tools**: PEstudio, PE-bear, Wireshark, REMnux
-- **Key Highlights**:
-  - Discovered suspicious Windows API calls.
-  - Monitored network activity for malicious domains.
-  - [View Project](#) _(Link to the repository)_
-
-### 2. **Python Script: IP Address Detection**
-- **Description**: Wrote a Python script to automate IP address detection in network logs.
-- **Features**:
-  - Extracts IPs from log files.
-  - Identifies suspicious IPs using known threat intelligence sources.
-- [View Script](#) _(Link to the repository)_
-
-### 3. **OSINT Investigation: Protecting Communities**
-- **Description**: Used OSINT techniques to track digital footprints and help vulnerable communities.
-- **Tools**: Maltego, Google Dorking, Shodan, Kali
-- **Key Impact**:
-  - Identified threats targeting community members.
-  - Mitigated risks by educating users about online safety.
-- [View Project](#) _(Link to the repository)_
-
-Here’s a tailored format for your GitHub repository with **Description**, **Features**, and **Key Highlights** sections:  
-
-### 4. **Google Cybersecurity Professional Certificate Projects**
+### 1 **Google Cybersecurity Professional Certificate Projects**
 
 - **Description** : Showcases my projects and practical work completed during the Google Cybersecurity Professional Certificate program. It demonstrates my skills in cloud security, threat detection, and vulnerability management.
 - **Features** :
@@ -40,7 +14,7 @@ Here’s a tailored format for your GitHub repository with **Description**, **Fe
   - Hands-on experience with Google Cloud Platform (GCP) services.  
   - Implementation of multi-factor authentication (MFA) and other security measures.  
   - Proactive defense measures to safeguard digital environments.
-- [Google Cybersecurity Projects](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects) _(Link to the repository)_
+- [Google Cybersecurity Projects](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 
 ## Certifications
