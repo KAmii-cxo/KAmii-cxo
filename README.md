@@ -40,7 +40,7 @@ Here’s a tailored format for your GitHub repository with **Description**, **Fe
   - Hands-on experience with Google Cloud Platform (GCP) services.  
   - Implementation of multi-factor authentication (MFA) and other security measures.  
   - Proactive defense measures to safeguard digital environments.
-- [View Project](#) _(Link to the repository)_
+- [Google Cybersecurity Projects](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects) _(Link to the repository)_
 
 
 ## Certifications
