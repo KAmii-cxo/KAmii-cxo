@@ -31,12 +31,12 @@ Here’s a tailored format for your GitHub repository with **Description**, **Fe
 
 ### 4. **Google Cybersecurity Professional Certificate Projects**
 
-- **Description : Showcases my projects and practical work completed during the Google Cybersecurity Professional Certificate program. It demonstrates my skills in cloud security, threat detection, and vulnerability management.
-- **Features :
+- **Description** : Showcases my projects and practical work completed during the Google Cybersecurity Professional Certificate program. It demonstrates my skills in cloud security, threat detection, and vulnerability management.
+- **Features** :
   - Scripts and resources for securing cloud environments.  
   - Threat detection strategies using cybersecurity tools.  
   - Projects focused on identifying and mitigating vulnerabilities.  
-- **Key Highlights :
+- **Key Highlights** :
   - Hands-on experience with Google Cloud Platform (GCP) services.  
   - Implementation of multi-factor authentication (MFA) and other security measures.  
   - Proactive defense measures to safeguard digital environments.
