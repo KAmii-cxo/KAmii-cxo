@@ -25,6 +25,5 @@ Wait for some hand-ons labs to be upload like basic python for ethical hacking, 
 
 
 ## Contact
-- **Email**: hashimzulkifli@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/hashim-zulkifli/
-
+- [**Email**](hashimzulkifli@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/hashim-zulkifli/)
