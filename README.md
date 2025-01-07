@@ -19,8 +19,6 @@ Hi, I'm KAmii, a Cybersecurity Enthusiast focused on SOC operations and threat h
 
 ## Certifications
 - Google Cybersecurity Certificate [link](https://coursera.org/share/c54a640b6cb6f38d61a229826c7821f3)
-- ISC2 Certified in Cybersecurity
-
 
 
 ## Contact
