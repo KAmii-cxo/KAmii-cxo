@@ -14,7 +14,7 @@ Hi, I'm KAmii, a Cybersecurity Enthusiast focused on SOC operations and threat h
   - Hands-on experience with Google Cloud Platform (GCP) services.  
   - Implementation of multi-factor authentication (MFA) and other security measures.  
   - Proactive defense measures to safeguard digital environments.
-- Google Cybersecurity Projects[here](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
+- Google Cybersecurity Projects[here] (https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 
 ## Certifications
