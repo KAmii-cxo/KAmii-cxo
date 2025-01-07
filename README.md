@@ -17,7 +17,7 @@ Hi, I'm KAmii, a Cybersecurity Enthusiast focused on SOC operations and threat h
     
 - Google Cybersecurity Projects [here](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
-Wait for some hand-ons labs to be upload like basic python for ethical hacking, configuration and malware analysis, OSINT and etc. 
+Wait for some hand-ons labs to be upload like basic python for ethical hacking, configuration and malware analysis, OSINT and tyrhackme journey etc. 
 
 
 ## Certifications
