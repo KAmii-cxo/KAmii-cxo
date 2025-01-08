@@ -25,7 +25,8 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
 
 ### 🛠 **Skills & Tools**  
 - **Cybersecurity**: Vulnerability scanning, malware analysis, log and network monitoring analysis, incident handling and documentation.  
-- **Technical Skills**: Linux, Python, SQL, and hands-on experience with tools like PEstudio, Procmons, and Wireshark. Threat hunting and digital forensics. 
+- **Technical Skills**: Linux, Python, SQL, and hands-on experience with tools like PEstudio, Procmons, and Wireshark.
+- **Threat hunting and digital forensics** : Using tools in SIEM and sandboxing to find hiding threats, patterns, behaviour. 
 - **Virtualization**: Using VMware, VirtualBox, and REMnux for secure analysis environments.
 - **Hacking**: Basic penetration skills and tools using Kali Linux, Metasploit, automation scripts.  
 
