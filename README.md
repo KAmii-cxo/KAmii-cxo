@@ -17,7 +17,11 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
   -  Safely setting up and managing malware analysis labs (OS, Ubuntu etc) . The configuration takes a lot of time. I will share it again for the next sandboxing for other OS (packed by SOC course path right now) [_here_]
   -  Network Monitoring and IDS Server conf [_here_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
 - ***Python Projects for automation***: (excited to share about this!)
--  I'm trying to give proper documentation of my jounrney doing other labs too. right now racing against time to do SOC courses path in a proper way. All of the hand-on projects that I documented are in google drive directory. [_here_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link). 
+-  I'm trying to give proper documentation of my jounrney doing other labs too. right now racing against time to do SOC courses path in a proper way. All of the hand-on projects that I documented are in google drive directory. [_here_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link).
+
+### Compliance Checklist
+-  ***PDPA 2021 Singapore Compliance Checklist*** [_here_](https://docs.google.com/document/d/1EgwS1RGncc71n3xbSfgWu89dw4WgaxXghDm9xH8x33w/edit?usp=drive_link)
+-  I am interested to dig deeper in this area because I think by doing some self-checklist, it can helps me more in future. I am interested to study other rules and regulations of personal data to respective states. Perhaps, i can study and get more understanding in this field. 
 
 ### 🛠 **Skills & Tools**  
 - **Cybersecurity**: Vulnerability scanning, malware analysis, and network monitoring.  
