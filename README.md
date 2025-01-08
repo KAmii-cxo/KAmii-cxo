@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
 - ***Python Projects for automation***: (excited to share about this!)
 -  I'm trying to give proper documentation of my jounrney doing other labs too. right now racing against time to do SOC courses path in a proper way. All of the hand-on projects that I documented are in google drive directory. [_here_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link).
 
-### Compliance Checklist
+### Governance Compliance Checklist
 -  ***PDPA 2021 Singapore Compliance Checklist*** [_here_](https://docs.google.com/document/d/1EgwS1RGncc71n3xbSfgWu89dw4WgaxXghDm9xH8x33w/edit?usp=drive_link)
 -  I am interested to dig deeper in this area because I think by doing some self-checklist, it can helps me more in future. I am interested to study other rules and regulations of personal data to respective states. Perhaps, i can study and get more understanding in this field. 
 
