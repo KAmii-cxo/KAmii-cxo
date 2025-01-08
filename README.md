@@ -1,23 +1,27 @@
 # Hashim Zulkifli
 
-## About Me
-Hi, I'm KAmii, a Cybersecurity Enthusiast focused on SOC operations and threat hunting. With a passion for securing digital environments, I am focusing on learning in malware analysis, vulnerability scanning, penetration testing and network monitoring.
+# 👋 Hi, I'm Kami (Hashim Zulkifli)  
+🎯 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Malware Analysis Learner**  
 
-### 1. **Google Cybersecurity Professional Certificate Projects**
+Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat hunting** and **cloud security**. My passion lies in **malware analysis**, **Linux hardening**, and safeguarding digital environments.  
 
-- **Description** : Showcases my projects and practical work completed during the Google Cybersecurity Professional Certificate program. It demonstrates my skills in cloud security, threat detection, and vulnerability management.
-- **Features** :
-  - Scripts and resources for securing cloud environments.  
-  - Threat detection strategies using cybersecurity tools.  
-  - Projects focused on identifying and mitigating vulnerabilities.  
-- **Key Highlights** :
-  - Hands-on experience with Google Cloud Platform (GCP) services.  
-  - Implementation of multi-factor authentication (MFA) and other security measures.  
-  - Proactive defense measures to safeguard digital environments.
-    
-- Google Cybersecurity Projects [here](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
+### 💻 **What I'm Working On**  
+- **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.  
+- **Cloud Security Path**: Learning tools and strategies for securing cloud environments.  
+- **SOC Tools**: Setting up and exploring **Splunk** and other SOC software.  
 
-Wait for some hand-ons labs to be upload like basic python for ethical hacking, configuration and malware analysis, OSINT and tyrhackme journey etc. 
+### 🛠 **Skills & Tools**  
+- **Cybersecurity**: Vulnerability scanning, malware analysis, and network monitoring.  
+- **Technical Skills**: Linux, Python, SQL, and hands-on experience with tools like PE-bear, PEstudio, and Wireshark.  
+- **Virtualization**: Using VMware, VirtualBox, and REMnux for secure analysis environments.  
+
+### 📖 **Continuous Learning**  
+I'm on an exciting journey to deepen my knowledge and contribute to the cybersecurity field. I recently earned the **Google Cybersecurity Certificate**, and I’m working on labs to sharpen my skills further.  
+
+---
+
+Let's connect and learn together! 🚀  
+Feel free to explore my repositories and projects showcasing my hands-on experiences and passion for cybersecurity.  
 
 
 ## Certifications
