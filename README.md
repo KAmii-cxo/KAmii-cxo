@@ -24,9 +24,10 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
 -  I am interested to dig deeper in this area because I think by doing some self-checklist, it can helps me more in future. I am interested to study other rules and regulations of personal data to respective states. Perhaps, i can study and get more understanding in this field. 
 
 ### 🛠 **Skills & Tools**  
-- **Cybersecurity**: Vulnerability scanning, malware analysis, and network monitoring.  
-- **Technical Skills**: Linux, Python, SQL, and hands-on experience with tools like PE-bear, PEstudio, and Wireshark.  
-- **Virtualization**: Using VMware, VirtualBox, and REMnux for secure analysis environments.  
+- **Cybersecurity**: Vulnerability scanning, malware analysis, log and network monitoring analysis, incident handling and documentation.  
+- **Technical Skills**: Linux, Python, SQL, and hands-on experience with tools like PEstudio, Procmons, and Wireshark.  
+- **Virtualization**: Using VMware, VirtualBox, and REMnux for secure analysis environments.
+- **Hacking**: Basic penetration skills and tools using Kali Linux, Metasploit, automation scripts.  
 
 ### 📖 **Continuous Learning**  
 I'm on an exciting journey to deepen my knowledge and contribute to the cybersecurity field. I recently earned the **Google Cybersecurity Certificate**, and I’m working on labs to sharpen my skills further.  
