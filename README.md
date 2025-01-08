@@ -9,6 +9,12 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
 - **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.  
 - **Cloud Security Path**: Learning tools and strategies for securing cloud environments.  
 - **SOC Tools**: Setting up and exploring **Splunk** and other SOC software.  
+- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate.
+
+### 💻 Hands-On Labs
+- ***Malware Analysis***: Basic static analysis with tools like PE-bear and PEstudio.
+- ***Network Monitoring***: Packet analysis with Wireshark.
+- ***Virtualized Environments***: Safely setting up and managing malware analysis labs.
 
 ### 🛠 **Skills & Tools**  
 - **Cybersecurity**: Vulnerability scanning, malware analysis, and network monitoring.  
