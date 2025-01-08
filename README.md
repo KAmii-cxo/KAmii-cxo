@@ -30,7 +30,7 @@ Feel free to explore my repositories and projects showcasing my hands-on experie
 
 
 ## Certifications
-- Google Cybersecurity Certificate [link](https://coursera.org/share/c54a640b6cb6f38d61a229826c7821f3)
+- Google Cybersecurity Certificate [_link_](https://coursera.org/share/c54a640b6cb6f38d61a229826c7821f3)
 
 
 ## Contact
