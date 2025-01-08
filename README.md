@@ -9,11 +9,11 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
 - **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.  
 - **Cloud Security Path**: Learning tools and strategies for securing cloud environments.  
 - **SOC Tools**: Setting up and exploring **Splunk** and other SOC software.  
-- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [here](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
+- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_here_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 ### 💻 Hands-On Labs
-- ***Malware Analysis***: Basic static and dynamic analysis with tools like PE-bear and PEstudio. [here](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
-- ***Virtualized Environments***: Safely setting up and managing malware analysis labs. [here]
+- ***Malware Analysis***: Basic static and dynamic analysis with tools like PE-bear and PEstudio. [_here_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
+- ***Virtualized Environments***: Safely setting up and managing malware analysis labs. [_here_]
 
 ### 🛠 **Skills & Tools**  
 - **Cybersecurity**: Vulnerability scanning, malware analysis, and network monitoring.  
