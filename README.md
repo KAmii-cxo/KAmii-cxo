@@ -1,6 +1,6 @@
 # Hashim Zulkifli
 
-# 👋 Hi, I'm Kami (Hashim Zulkifli)  
+# 👋 Hi, I'm Kamii (Hashim Zulkifli)  
 🎯 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Malware Analysis Learner**  
 
 Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat hunting** and **cloud security**. My passion lies in **malware analysis**, **Linux hardening**, and safeguarding digital environments.  
