@@ -12,8 +12,8 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
 - **SOC Tools**: Setting up and exploring **Splunk** and other SOC software.  
 - **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_here_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
-### 💻 Hands-On Labs
-- ***Malware Analysis***: Basic static and dynamic analysis with tools like PE-bear and PEstudio. [_here_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
+### 💻 Hands-On Labs (_most of the ducomentations are in google directories, will upload to github soon_)
+- ***Malware Analysis***: Basic static and dynamic analysis. [_here_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
 - ***Virtualized Environments***: 
   -  Safely setting up and managing malware analysis labs (OS, Ubuntu etc) . The configuration takes a lot of time. I will share it again for the next sandboxing for other OS (packed by SOC course path right now) [_here_]
   -  Network Monitoring and IDS Server conf [_here_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
