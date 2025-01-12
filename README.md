@@ -19,6 +19,8 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst** with a focus on **threat h
   -  Safely setting up and managing malware analysis labs (OS, Ubuntu etc) . The configuration takes a lot of time. I will share it again for the next sandboxing for other OS (packed by SOC course path right now) [_here_]
   -  Network Monitoring and IDS Server conf [_here_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
 - ***Python Projects for automation***: (excited to share about this!)
+- ***Malware Sandboxing***: configuration for each OS (I am starting to learn about others malware sanboxing platforms. stay tune!)
+
 
 All of the hand-on projects that I documented are in google drive directory. [_here_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link).
 
