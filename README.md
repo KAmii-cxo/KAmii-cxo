@@ -24,10 +24,6 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst**. My passion lies in **malw
 
 All of the hand-on projects that I documented are in google drive directory. [_here_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link).
 
-### Governance Compliance Checklist
--  ***PDPA 2021 Singapore Compliance Checklist*** [_here_](https://docs.google.com/document/d/1EgwS1RGncc71n3xbSfgWu89dw4WgaxXghDm9xH8x33w/edit?usp=drive_link)
--  I am interested to dig deeper in this area because I think by doing some self-checklist, it can helps me more in future. I am interested to study other rules and regulations of personal data to respective states. Perhaps, i can study and get more understanding in this field. 
-
 ### 🛠 **Skills & Tools**  
 - **Cybersecurity**: Vulnerability scanning, malware analysis, log and network monitoring analysis, incident handling and documentation.  
 - **Technical Skills**: Linux, Python, SQL, and hands-on experience with tools like PEstudio, Procmons, and Wireshark.
