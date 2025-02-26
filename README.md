@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an aspiring **SOC Analyst**. My passion lies in **malw
 ### 💻 **What I'm Working On**  
 - **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.  
 - **Cloud Security Path**: Learning tools and strategies for securing cloud environments.
-- **SOC Analyst Path**: Notes, exercise and labs on the progress. [_SOC level 1_](https://github.com/KAmii-cxo/SOC-Level-1) [_SOC_Level_2_] 
+- **SOC Analyst Path**: Notes, exercise and labs on the progress. [_SOC level 1_](https://github.com/KAmii-cxo/SOC-Level-1) [_SOC Level 2_](adasdasdsadadasd) 
 - **SOC Tools**: Setting up and exploring **Splunk** and other SOC software.  
 - **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_here_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
