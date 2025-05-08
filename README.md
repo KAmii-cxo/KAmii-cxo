@@ -32,7 +32,7 @@ All of the hand-on projects that I documented are in google drive directory. [_h
 - **Hacking**: Basic penetration skills and tools using Kali Linux, Metasploit, automation scripts.  
 
 ### 📖 **Continuous Learning**  
-I'm on an exciting journey to deepen my knowledge and contribute to the cybersecurity field. I recently earned the **Google Cybersecurity Certificate**, and I’m working on labs to sharpen my skills further.  
+I'm on an exciting journey to deepen my knowledge and contribute to the cybersecurity field. I recently earned the **Google Cybersecurity Certificate**, **TryHackMe SOC Level 1&2**, and I’m working on labs to sharpen my skills further.  
 
 ---
 
@@ -42,7 +42,8 @@ Feel free to explore my repositories and projects showcasing my hands-on experie
 
 ## Certifications
 - Google Cybersecurity Certificate [_link_](https://coursera.org/share/c54a640b6cb6f38d61a229826c7821f3)
-
+- SOC Level 1 TryHackMe [_link_](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6FADHLSSBA.pdf)
+- Soc Level 2 TryHackme [_link_](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SSJ7SOWIKN.pdf)
 
 ## Contact
 - [**Email**](hashimzulkifli@gmail.com)
