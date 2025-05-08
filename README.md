@@ -1,7 +1,7 @@
 # Hashim Zulkifli
 
 # 👋 Hi, I'm Kamii (Hashim Zulkifli)  
-Cybersecurity Enthusiast | Malware Analysis Learner**  
+**Cybersecurity Enthusiast | Malware Analysis Learner**  
 
 Welcome to my GitHub! My passion lies in **malware analysis**, educating and safeguarding digital environments.  
 
