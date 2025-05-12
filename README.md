@@ -10,7 +10,6 @@ Welcome to my GitHub! My passion lies in SOC, CTI, malware analysis, threat hunt
 - **Cyber Threat Intelligence**: Exploring CTI about threat actors, the TTPs, IoC, their target, goals and methods. [_CTI_](https://github.com/KAmii-cxo/CTI)
 - **Cloud Security Path**: Learning tools and strategies for securing cloud environments.
 - **SOC Analyst Path TryHackMe**: Notes, exercise and labs. Showcasing the hands-on projects I’ve completed as part of the SOC Level 1 & 2 TryHackMe[_SOC level 1_](https://github.com/KAmii-cxo/SOC-Level-1) [_SOC Level 2_](https://github.com/KAmii-cxo/SOC-Level-2)
-- **SOC Tools**: Setting up and exploring **Splunk** and other SOC software.  
 - **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_here_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 ### 💻 Hands-On Labs 
