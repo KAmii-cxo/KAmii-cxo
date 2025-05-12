@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Kamii (Hashim Zulkifli)  
 **Cybersecurity Enthusiast | Security Researcher | Malware Analysis**  
 
-Welcome to my GitHub! My passion lies in SOC roles, malware analysis, educating and safeguarding digital environments to other people around me.  
+Welcome to my GitHub! My passion lies in SOC, CTI, malware analysis, threat hunting, educating and safeguarding digital environments to other people around me.  
 
 ### 💻 **What I'm Working On**  
 - **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.
