@@ -16,7 +16,9 @@ Welcome to my GitHub! My passion lies in SOC, CTI, malware analysis, threat hunt
 ### 💻 Hands-On Labs 
 (_most of the documentations are in google directories, will upload to github soon_)
 - ***Malware Analysis***: Basic static and dynamic analysis. [_here_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
-- ***Virtualized Environments***: 
+- ***Virtualized Environments***:
+  -  Safely setting up and managing malware analysis labs (OS, Ubuntu etc) . The configuration takes a lot of time. I will share it again for the next sandboxing for other OS [_here_]
+  -  Network Monitoring and IDS Server conf [_here_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
 - ***Network Monitoring and IDS Server configuration*** [_here_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
 - ***Python Projects for automation***: (excited to share about this!)
 - ***Malware Sandboxing***: configuration for each OS (I am starting to learn about others malware sanboxing platforms. stay tune!)
