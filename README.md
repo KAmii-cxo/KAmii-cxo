@@ -12,7 +12,7 @@ Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, 
 - **Cyber Threat Intelligence**: Exploring CTI about threat actors, the TTPs, IoC, their target, goals and methods. [_CTI_](https://github.com/KAmii-cxo/CTI)
 - **Cybernotes on Social Media**: I write notes and contents about my learning, summaries of security news on my Linkedin, Facebook page, and on X. I save writings of all of them here.[_Google Drive Directory_](https://drive.google.com/drive/folders/1u8-QqXknTNLB9Spc4rZGn79dt8s4LD1j?usp=drive_link)
 - **Cloud Security Path**: Learning tools and strategies for securing cloud environments.(working on this)
-- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_here_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
+- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_Google Drive Directory_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 ### 💻 Hands-On Labs 
 (_most of the documentations are in google directories, will upload to github soon_)
