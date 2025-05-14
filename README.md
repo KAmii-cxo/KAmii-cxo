@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Kamii (Hashim Zulkifli)  
 **Cybersecurity Enthusiast**  
 
-Welcome to my GitHub! My passion lies in SOC, CTI, malware analysis, threat hunting, educating and safeguarding digital environments to other people around me.  
+Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, educating and safeguarding digital environments to other people around me.  
 
 ### 💻 **What I'm Working On**  
 - **Malware Analysis related Rooms TryHackMe**. Showcasing the hands-on projects related to malware analysis from TryHackMe [_Malware Analysis TryHackMe_](https://github.com/KAmii-cxo/Malware-Analysis-Rooms-TryHackMe)
