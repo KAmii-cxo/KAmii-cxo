@@ -6,6 +6,7 @@
 Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, educating and safeguarding digital environments to other people around me.  
 
 ### 💻 **What I'm Working On**  
+- **Google Google IT Automation with Python** : 74% Completed
 - **Malware Analysis related Rooms TryHackMe**. Showcasing the hands-on projects related to malware analysis from TryHackMe [_Malware Analysis TryHackMe_](https://github.com/KAmii-cxo/Malware-Analysis-Rooms-TryHackMe)
 - **SOC Analyst Path TryHackMe**: Notes, exercise and labs. Showcasing the hands-on projects I’ve completed as part of the SOC Level 1 & 2 TryHackMe[_SOC level 1_](https://github.com/KAmii-cxo/SOC-Level-1) [_SOC Level 2_](https://github.com/KAmii-cxo/SOC-Level-2)
 - **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.
