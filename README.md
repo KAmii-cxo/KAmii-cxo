@@ -17,16 +17,16 @@ Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, 
 
 ### 💻 Hands-On Labs 
 (_most of the documentations are in Google Drive Directory_)
-- ***Malware Analysis***: Static and dynamic analysis. [_Google Directory_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
+- ***Malware Analysis***: Static and dynamic analysis. [_Google Drive Directory_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
 - ***Virtualized Environments***:
   -  Safely setting up and managing malware analysis labs (OS, Ubuntu etc) . The configuration takes a lot of time. I will share it again for the next sandboxing for other OS [_here_]
-  -  Network Monitoring and IDS Server conf [_Google Directory_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
-- ***Network Monitoring and IDS Server configuration*** [_Google Directory_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
+  -  Network Monitoring and IDS Server conf [_Google Drive Directory_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
+- ***Network Monitoring and IDS Server configuration*** [_Google Drive Directory_](https://drive.google.com/drive/folders/1RSOSt8RlBUPyBMuVYi8e5aK3L0ULndsW?usp=drive_link)
 - ***Python Projects for automation***: (excited to share about this!)
 - ***Malware Sandboxing***: configuration (I am starting to learn about others malware sanboxing platforms. stay tune!)
 
 
-All of the hand-on projects that I documented are in google drive directory. [_Google Directory_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link).
+All of the hand-on projects that I documented are in google drive directory. [_Google Drive Directory_](https://drive.google.com/drive/folders/1sW4_92HpIKTx5grm9TDgcOn4ZMe2RdG6?usp=drive_link).
 
 ### 🛠 **Skills & Tools**  
 - **Cybersecurity**: Vulnerability scanning, malware analysis, log and network monitoring analysis, incident handling and documentation.  
