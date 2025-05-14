@@ -16,7 +16,7 @@ Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, 
 - **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_Google Drive Directory_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 ### 💻 Hands-On Labs 
-(_most of the documentations are in google directories, will upload to github soon_)
+(_most of the documentations are in Google Drive Directory_)
 - ***Malware Analysis***: Static and dynamic analysis. [_Google Directory_](https://drive.google.com/drive/folders/19guyZxUA1wlEPnfp9a9CTzwqDk9kUGHA?usp=drive_link)
 - ***Virtualized Environments***:
   -  Safely setting up and managing malware analysis labs (OS, Ubuntu etc) . The configuration takes a lot of time. I will share it again for the next sandboxing for other OS [_here_]
