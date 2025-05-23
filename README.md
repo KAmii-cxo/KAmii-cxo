@@ -6,14 +6,14 @@
 Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, educating and safeguarding digital environments to other people around me.  
 
 ### 💻 **What I'm Working On**  
-- **Google Google IT Automation with Python** : 74% Completed
+- **Google IT Automation with Python** : Progress [_Google Drive Directory_](https://drive.google.com/drive/folders/1LwCVUSTg3v_by6yVaPP8A-7pMz2aXCfx?usp=drive_link)
 - **Malware Analysis related Rooms TryHackMe**. Showcasing the hands-on projects related to malware analysis from TryHackMe [_Malware Analysis TryHackMe_](https://github.com/KAmii-cxo/Malware-Analysis-Rooms-TryHackMe)
 - **SOC Analyst Path TryHackMe**: Notes, exercise and labs. Showcasing the hands-on projects I’ve completed as part of the SOC Level 1 & 2 TryHackMe[_SOC level 1_](https://github.com/KAmii-cxo/SOC-Level-1) [_SOC Level 2_](https://github.com/KAmii-cxo/SOC-Level-2)
 - **Cybersecurity Labs**: Exploring threat hunting, malware analysis, and security operations.
 - **Cyber Threat Intelligence**: Exploring CTI about threat actors, the TTPs, IoC, their target, goals and methods. [_CTI_](https://github.com/KAmii-cxo/CTI)
 - **Cybernotes on Social Media**: I write notes and contents about my learning, summaries of security news on my Linkedin, Facebook page, and on X. I save writings of all of them here.[_Google Drive Directory_](https://drive.google.com/drive/folders/1u8-QqXknTNLB9Spc4rZGn79dt8s4LD1j?usp=drive_link)
 - **Cloud Security Path**: Learning tools and strategies for securing cloud environments.(working on this)
-- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_Google Drive Directory_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
+- **Google Cybersecurity Portfolio Projects**: Showcasing the hands-on projects I’ve completed as part of the Google Cybersecurity Certificate. [_Projects_](https://github.com/KAmii-cxo/Google-Cybersecurity-Certs-Projects)
 
 ### 💻 Hands-On Labs 
 (_most of the documentations are in Google Drive Directory_)
