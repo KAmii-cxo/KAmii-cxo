@@ -1,6 +1,6 @@
 # Hashim Zulkifli
 
-# 👋 Hi, I'm Kamii (Hashim Zulkifli)  
+# 👋 Hi, I'm Kamii
 **Cybersecurity Enthusiast**  
 
 Welcome to my GitHub! My passion lies in SOC, malware analysis, threat hunting, educating and safeguarding digital environments to other people around me.  
