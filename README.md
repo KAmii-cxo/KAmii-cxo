@@ -72,4 +72,4 @@ Beyond individual labs, I maintain a full vault of cybersecurity materials — i
 
 ---
 
-> _“Detect deeply. Respond calmly. Share openly.”_
+> _“Built, simulated, hunted, and documented.”_
