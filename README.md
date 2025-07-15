@@ -25,8 +25,8 @@ I simulate real-world attacks, hunt for persistence, and build detection strateg
 🔸 Includes: privilege escalation, persistence, reverse shell, obfuscation, and cleanup  
 🔸 Built for Purple Team validation
 
-📘 [Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1Y2FkC6LkYLrOxYcMcoFkI49VS0gGtKHXH5pqHC79rRs/edit?usp=drive_link)  
-📄 [Modular Detection Report (PDF)](https://your-pdf-link)
+📘 [Draft Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1Y2FkC6LkYLrOxYcMcoFkI49VS0gGtKHXH5pqHC79rRs/edit?usp=drive_link)  
+📄 [Draft Modular Detection Report (PDF)](https://your-pdf-link)
 
 ---
 
