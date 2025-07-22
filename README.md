@@ -8,6 +8,7 @@ I simulate real-world attacks, hunt for persistence, and build detection strateg
 ## 🔥 Featured Lab Project
 
 ### 🛡️ [SOC Lab 01 – SSH Brute Force + Reverse Shell Detection](https://github.com/Kamii-cxo/SOC-Lab-01-SSH-ReverseShell-Wazuh)
+Status : Completed 
 
 🔸 SSH brute force via Hydra  
 🔸 Reverse shell with cron & bashrc persistence  
