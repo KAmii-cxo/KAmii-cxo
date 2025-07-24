@@ -19,15 +19,18 @@ Status : Completed
 
 
 ### 🧩 [SOC Lab 02 – Modular Detection Lab (Wazuh Custom Rules)](https://github.com/Kamii-cxo/SOC-Lab-02-Modular-Detection-Wazuh)
-[![Status](https://img.shields.io/badge/status-in%20progress-yellow)](https://github.com/Kamii-cxo/SOC-Lab-02-Modular-Detection-Wazuh)
-
+Status : Completed
 🔸 Simulates post-exploitation behavior  
 🔸 10+ modular detection rules (TTP-based)  
 🔸 Includes: privilege escalation, persistence, reverse shell, obfuscation, and cleanup  
 🔸 Built for Purple Team validation
 
-📘 [Draft Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1Y2FkC6LkYLrOxYcMcoFkI49VS0gGtKHXH5pqHC79rRs/edit?usp=drive_link)  
-📄 [Draft Modular Detection Report (PDF)](https://your-pdf-link)
+📘 [Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1Y2FkC6LkYLrOxYcMcoFkI49VS0gGtKHXH5pqHC79rRs/edit?usp=drive_link)  
+📄 [Wazuh Custom Rules – Persistence Detection (MITRE-based)](https://docs.google.com/document/d/175FfMyy9H1UmCG0DwcVPYH6uuwDrMY47_bgvIxVnBQI/edit?usp=drive_link)
+
+
+
+
 
 ---
 
