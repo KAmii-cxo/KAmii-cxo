@@ -20,6 +20,7 @@ Status : Completed
 
 ### 🧩 [SOC Lab 02 – Modular Detection Lab (Wazuh Custom Rules)](https://github.com/Kamii-cxo/SOC-Lab-02-Modular-Detection-Wazuh)
 Status : Completed
+
 🔸 Simulates post-exploitation behavior  
 🔸 10+ modular detection rules (TTP-based)  
 🔸 Includes: privilege escalation, persistence, reverse shell, obfuscation, and cleanup  
