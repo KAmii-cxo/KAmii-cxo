@@ -10,10 +10,10 @@ I simulate real-world attacks, hunt for persistence, and build detection strateg
 ### 🛡️ [SOC Lab 01 – SSH Brute Force + Reverse Shell Detection](https://github.com/Kamii-cxo/SOC-Lab-01-SSH-ReverseShell-Wazuh)
 Status : Completed 
 
-🔸 SSH brute force via Hydra  
-🔸 Reverse shell with cron & bashrc persistence  
-🔸 Detection via Wazuh (custom rule)  
-🔸 Full investigation, cleanup & recovery flow
+- SSH brute force via Hydra  
+- Reverse shell with cron & bashrc persistence  
+- Detection via Wazuh (custom rule)  
+- Full investigation, cleanup & recovery flow
 
 📄 [View Full Report (PDF)](https://drive.google.com/your_link_here)
 
@@ -21,14 +21,26 @@ Status : Completed
 ### 🧩 [SOC Lab 02 – Modular Detection Lab (Wazuh Custom Rules)](https://github.com/Kamii-cxo/SOC-Lab-02-Modular-Detection-Wazuh)
 Status : Completed
 
-🔸 Simulates post-exploitation behavior  
-🔸 10+ modular detection rules (TTP-based)  
-🔸 Includes: privilege escalation, persistence, reverse shell, obfuscation, and cleanup  
-🔸 Built for Purple Team validation
+- Simulates post-exploitation behavior  
+- 10+ modular detection rules (TTP-based)  
+- Includes: privilege escalation, persistence, reverse shell, obfuscation, and cleanup  
+- Built for Purple Team validation
 
 📘 [Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1Y2FkC6LkYLrOxYcMcoFkI49VS0gGtKHXH5pqHC79rRs/edit?usp=drive_link)  
 📄 [Wazuh Custom Rules – Persistence Detection (MITRE-based)](https://docs.google.com/document/d/175FfMyy9H1UmCG0DwcVPYH6uuwDrMY47_bgvIxVnBQI/edit?usp=drive_link)
 
+### 🎭 [SOC Lab 03 – Phishing to Malware Analysis + Blue Team Detection](https://github.com/KAmii-cxo/SOC-Lab-03-Phishing-to-Malware-Analysis)
+Status : In Progress 🚧
+
+- End-to-end simulation: phishing → malware dropper → reverse shell  
+- JavaScript-based cloaking + sandbox/redirection evasion  
+- Obfuscation, LOLBins, and persistence techniques (registry, startup, tasks)  
+- Detection via Sysmon, Wazuh, YARA, and Sigma  
+- Reverse engineering with Ghidra, FlareVM, x64dbg  
+- Full MITRE ATT&CK mapping and remediation simulation
+
+📘 [Draft Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1WXb0dAqDu8_Yg6iYG3eDi5MdUlb0n2WpnXP2QtRNZn4/edit?usp=drive_link)  
+📄 [Advance Writeup & IOC Hunting Template (Coming Soon)]()
 
 
 
