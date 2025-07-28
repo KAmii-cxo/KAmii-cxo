@@ -40,10 +40,26 @@ Status : In Progress 🚧
 - Full MITRE ATT&CK mapping and remediation simulation
 
 📘 [Draft Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1WXb0dAqDu8_Yg6iYG3eDi5MdUlb0n2WpnXP2QtRNZn4/edit?usp=drive_link)  
-📄 [Advance Writeup & IOC Hunting Template (Coming Soon)]()
+📄 [Writeup & IOC Hunting Template (Coming Soon)]()
 
+## 🌐 OSI Layer Simulation Series (Red & Blue Team Labs)
+Status : Draft 
 
+A tactical simulation series based on the **OSI Model** — covering attack surfaces, security strategies, and detection mapping from Layer 1 to Layer 7.
 
+| Layer | Focus Area | Simulation | Blue Team Focus | Status |
+|-------|------------|------------|------------------|--------|
+| Layer 1 – Physical | Device Access | USB payload injection, rogue access | Physical hardening checklist | ⏳ Drafting |
+| Layer 2 – Data Link | MAC spoofing, ARP poisoning | ARP cache poisoning in LAN | Detection with ARPwatch + alerts | ⏳ In Progress |
+| Layer 3 – Network | IP spoofing, ICMP tunneling | Covert channels, ping tunnel | Firewall, anomaly detection | ✅ Completed (notes) |
+| Layer 4 – Transport | Port scanning, reverse shell | Nmap, Netcat, TCP bind/rev shell | Wazuh + Sysmon correlation | ✅ Lab ready |
+| Layer 5 – Session | MITM session hijacking | Credential harvesting in transit | TLS inspection + logging | ⏳ Drafting |
+| Layer 6 – Presentation | Encoding & obfuscation | Base64, XOR payloads | YARA, Sigma, decoding rules | ✅ Included in Lab 02 |
+| Layer 7 – Application | Web exploits, phishing | XSS, JS dropper, credential dump | WAF + log correlation | ✅ Integrated in Lab 03 |
+
+> This series will expand continuously — with detection engineering at every layer.
+
+📘 [Draft Full Walkthrough (Google Doc)](https://docs.google.com/document/d/1M8WfJMw8cILIaEgpyZf503XUWFk8yjEqVl7wpSmWYZ4/edit?usp=drive_link)  
 
 ---
 
