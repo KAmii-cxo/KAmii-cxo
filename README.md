@@ -104,7 +104,7 @@ Beyond individual labs, I maintain a full vault of cybersecurity materials — i
 - 🎓 [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/6EE9PNZKPIDB)  
 - 🛡️ [TryHackMe SOC Level 1 learning path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6FADHLSSBA.pdf)  
 - 🛡️ [TryHackMe SOC Level 2 learning](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SSJ7SOWIKN.pdf)  
-- ☁️ AWS Cloud Practitioner Essentials *(in progress)*  
+- ☁️ AWS Cloud Practitioner Essentials *(labs in progress)*  
 - 🧪 CompTIA Security+ *(in progress)*  
 - 🎙️ Awareness Labs & Community Outreach
 
