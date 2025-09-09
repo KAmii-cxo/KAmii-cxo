@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kamii (Hashim Zulkifli)
 
-Cybersecurity Lab Builder | Threat Hunter | SOC Simulation Specialist  
+Cybersecurity Lab Builder
 I simulate real-world attacks, hunt for persistence, and build detection strategies — one lab at a time.
 
 ---
